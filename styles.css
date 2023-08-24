@@ -241,6 +241,7 @@ footer h3 {
 
   .projects img {
     width: 40%;
+    opacity: 1;
   }
 
   footer {

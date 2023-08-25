@@ -155,7 +155,7 @@ html {
 
 .projects .project-list a {
   width: 100%;
-  padding: 10px;
+  padding: 6px;
 }
 
 .projects img:hover {
@@ -165,7 +165,7 @@ html {
 .action {
   background-color: #181818;
   border: 0;
-  padding: 16px 40px;
+  padding: 16px 30px;
   border-radius: 4px;
   font-size: 18px;
   color: #ffffff;
@@ -237,11 +237,12 @@ footer h3 {
   }
 
   .about img {
-    width: 90%;
+    width: 80%;
     margin-top: 30px;
   }
 
   .projects .project-list a img {
+    width: 100%;
     opacity: 1;
   }
 

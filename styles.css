@@ -101,7 +101,7 @@ html {
 }
 
 .about img {
-  max-width: 400px;
+  max-width: 450px;
   border-radius: 8px;
 }
 
@@ -125,7 +125,7 @@ html {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 24px 16px;
+  padding: 60px 16px;
 }
 
 .projects h2 {
@@ -148,6 +148,7 @@ html {
 
 .projects .project-list a img {
   width: 100%;
+  height: auto;
   opacity: 0.8;
   border-radius: 5px;
   object-fit: contain;

@@ -107,11 +107,11 @@ html {
 
 .about div p {
   margin-top: 30px;
-  transition: 0.5s;
+  transition: 0.9s;
 }
 
 .about-p:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
 .about div h2 {
@@ -158,7 +158,7 @@ html {
   padding: 6px;
 }
 
-.projects img:hover {
+.projects .project-list a img:hover {
   opacity: 1;
 }
 
@@ -173,6 +173,11 @@ html {
   cursor: pointer;
   text-decoration: none;
   margin: 20px 0;
+  transition: 0.9s;
+}
+
+.action:hover {
+  transform: scale(1.1);
 }
 
 footer {

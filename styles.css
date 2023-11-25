@@ -257,8 +257,12 @@ footer h3 {
   }
 
   .grid-container a {
-    width: 90%;
+    width: auto;
     height: auto;
+    align-items: center;
+    justify-content: center;
+
+    gap: 10px;
   }
 
   .action {

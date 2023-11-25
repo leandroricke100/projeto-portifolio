@@ -266,9 +266,9 @@ footer h3 {
   }
 
   .grid-container a {
+    width: 150px;
     align-items: center;
     justify-content: center;
-    height: auto;
   }
 
   .action {

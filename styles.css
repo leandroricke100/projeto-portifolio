@@ -256,15 +256,12 @@ footer h3 {
     width: 90%;
   }
 
-  .projects {
-    width: 100%;
-  }
-
   .grid-container a {
     width: 100%;
+    height: 50px;
     align-items: center;
     justify-content: center;
-    object-fit: cover;
+
     gap: 10px;
   }
 

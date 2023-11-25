@@ -260,15 +260,12 @@ footer h3 {
     width: 100%;
   }
 
-  .grid-container {
-    width: auto;
-    gap: 10px;
-  }
-
   .grid-container a {
-    width: 150px;
+    width: 100%;
     align-items: center;
     justify-content: center;
+    object-fit: cover;
+    gap: 10px;
   }
 
   .action {

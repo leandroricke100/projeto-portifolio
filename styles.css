@@ -256,6 +256,20 @@ footer h3 {
     width: 90%;
   }
 
+  .grid-container a {
+    width: 90%;
+    height: auto;
+  }
+
+  .action {
+    padding: 10px 15px;
+    font-size: 15px;
+  }
+
+  footer {
+    height: 150px;
+  }
+
   footer h3 {
     font-size: 24px;
     margin-bottom: 8px;

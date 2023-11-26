@@ -233,7 +233,7 @@ footer h3 {
 
 /* Responsividade */
 
-@media (min-width: 400px) and (max-width: 1024px) {
+@media (max-width: 1050px) {
   .main h1 {
     font-size: 45px;
   }
